@@ -77,7 +77,7 @@ cover.html
 </div>
 </body>
 <footer>
-    <p>Induja R(25001726)</p>
+    <p>&copy;Induja R(25001726)</p>
 </footer>
 </html>
 
