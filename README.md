@@ -182,7 +182,7 @@ footer
 ```
 
 ## OUTPUT:
-
+![alt text](bookcover..png)
 
 ## RESULT:
 The program for designing book back cover page using HTML and CSS is completed successfully.
